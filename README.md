@@ -13,11 +13,13 @@ Then you can run this project by:
 
 ## Enviroment Variables (dotenv)
 This project uses environment variables likes :
+```bash
 MYSQL_PASSWORD=""
 MYSQL_HOST=""
 MYSQL_DATABASE=""
 MYSQL_USER=""
 PORT=""
+```
 
 ## Example testing API on Postman
 - Get all movies ( Method: GET )
