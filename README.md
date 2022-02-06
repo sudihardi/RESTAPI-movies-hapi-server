@@ -78,6 +78,3 @@ example movie tittle: Money Heist
   ```
 
   ----------
-
-  ## Example Mysql database
-  
