@@ -47,6 +47,7 @@ example movie tittle: Money Heist
   json body:
 
   {
+    "userId": "12345",
     "tittle": "Money Heist", 
     "trailer": "https://www.imdb.com/video/vi2646786841?playlistId=tt6468322&ref_=tt_ov_vi", 
     "synopsis": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.", 
